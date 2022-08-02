@@ -1,2 +1,2 @@
 # To-Do
-Vanilla To-Do
+Vanilla To-Do list
